@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=winstonk19" alt="winstonk19" /></a> </p>
 
-- 🔭 I’m currently working on [Twitter analysis project](https://github.com/winstonk19/Twittoff)
+- 🔭 I’m currently working NutriF
 
 - 🌱 I’m currently learning **How to implement AI on future projects**
 
